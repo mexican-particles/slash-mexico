@@ -1,6 +1,10 @@
 # 準備
 - Serverless Frameworkの導入
 - AWSアカウントの設定
+- cloneしたリポジトリでパッケージのインストール
+```
+npm install
+```
 
 # 使い方
 ## デプロイ
