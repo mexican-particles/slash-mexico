@@ -11,8 +11,5 @@ functions:
     handler: app.main
     events:
       - http:
-          method: ANY
+          method: post
           path: '/'
-      - http:
-          method: ANY
-          path: '{proxy+}'
